@@ -1,0 +1,240 @@
+.navbar {
+    background-color: #3b1111;
+  }
+
+  .nav_logo {
+    max-width: 50px;
+  }
+
+  .navbar-nav {
+
+    margin-left: 200px;
+    font-size: 20px;
+
+  }
+
+  .nav-item {
+
+    padding: 5px;
+    margin-top: -6px;
+
+  }
+
+  .btn {
+    width: 200px;
+    height: 50px;
+    margin-top: -2px;
+    margin-left: 187px;
+  }
+
+  .section_1 {
+
+
+    background-color: rgb(196, 181, 181);
+  }
+
+  .home {
+    width: 100%;
+
+  }
+
+  .section_2 {
+    background-color: #e1d6d6;
+    height: 500px;
+  }
+
+  .rounded {
+    width: 500px;
+    margin-top: 70px;
+  }
+
+  .text-left {
+    margin-top: 15px;
+  }
+
+  .text-head {
+    margin-top: 70px;
+    font-size: 20px;
+  }
+
+  .btn2 {
+    padding: 4px 4px;
+    font-size: 30px;
+    text-align: center;
+    size: 50px;
+    transition-duration: 0.4s;
+    background-color: #3b1111;
+    color: #ffc107;
+    border: 2px solid #ffc107;
+    /* Green */
+    border-radius: 6px;
+
+  }
+
+  .btn2:hover {
+    background-color: #ffc107;
+    /* Green */
+    color: black;
+  }
+
+  .btn3 {
+    padding: 4px 4px;
+    font-size: 30px;
+    text-align: center;
+    size: 50px;
+    transition-duration: 0.4s;
+    background-color: #3b1111;
+    color: #ffc107;
+    border: 2px solid #ffc107;
+    /* Green */
+    border-radius: 6px;
+
+  }
+
+  .btn3:hover {
+    background-color: #ffc107;
+    /* Green */
+    color: black;
+  }
+
+  .btn4 {
+    padding: 4px 4px;
+    font-size: 30px;
+    text-align: center;
+    margin-top: -5px;
+    margin-left: 61px;
+    width: 200px;
+    transition-duration: 0.4s;
+    background-color: #3b1111;
+    color: #ffc107;
+    border: 2px solid #ffc107;
+    border-radius: 6px;
+  }
+
+
+
+  .btn4:hover {
+    background-color: #ffc107;
+    /* Green */
+    color: black;
+  }
+
+  .Slogan {
+
+    position: absolute;
+    top: 124px;
+    color: #ffc107;
+    background-color: #3b1111;
+    left: 352px;
+  }
+
+  .section_3 {
+    background-color: white;
+    height: 500px;
+  }
+
+  .section_4 {
+    background-color: #e1d6d6;
+    height: 670px;
+  }
+
+  .section_5 {
+    background-color: white;
+    height: 650px;
+  }
+
+  .section_6 {
+    background-color: #e1d6d6;
+    height: 500px;
+  }
+
+  .section_last {
+    background-color:white;
+    height: 432px;
+  }
+
+  .card {
+    max-width: 100%;
+    background-color: #f3e7d2;
+    margin-top: 70px;
+  }
+
+  .text {
+    margin-top: 30px;
+  }
+
+  .text1 {
+    position: relative;
+    top: 50px;
+  }
+
+  .text2 {
+    position: relative;
+    top: 70px;
+  }
+
+  .image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .log {
+    position: relative;
+    top: 100px;
+  }
+
+
+
+.col_white_amrc { color:#FFF;}
+     footer { width:100%; background-color:#0c0f23; min-height:250px; padding:10px 0px 25px 0px ;}
+     .pt2 { padding-top:40px ; margin-bottom:20px ;}
+     footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
+     .mb10 { padding-bottom:15px ;}
+     .footer_ul_amrc { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ;}
+     .footer_ul_amrc li {padding:0px 0px 5px 0px;}
+     .footer_ul_amrc li a{ color:#CCC;}
+     .footer_ul_amrc li a:hover{ color:#fff; text-decoration:none;}
+     .fleft { float:left;}
+     .padding-right { padding-right:10px; }
+     
+     .footer_ul2_amrc {margin:0px; list-style-type:none; padding:0px;}
+     .footer_ul2_amrc li p { display:table; }
+     .footer_ul2_amrc li a:hover { text-decoration:none;}
+     .footer_ul2_amrc li i { margin-top:5px;}
+     
+     .bottom_border { border-bottom:1px solid #323f45; padding-bottom:20px;}
+     .foote_bottom_ul_amrc {
+       list-style-type:none;
+       padding:0px;
+       display:table;
+       margin-top: 10px;
+       margin-right: auto;
+       margin-bottom: 10px;
+       margin-left: auto;
+     }
+     .foote_bottom_ul_amrc li { display:inline;}
+     .foote_bottom_ul_amrc li a { color:#999; margin:0 12px;}
+     
+     .social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
+     .social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+     .social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
+     .social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+    
+   
+
+     .h{
+      position: absolute;
+top: 173px;
+font-size: 80px;
+color: white;
+left: 480px;
+}
+.h1{
+  position: absolute;
+  top: 173px;
+  font-size: 80px;
+  color: #5b2020;
+  left: 388px;
+}
