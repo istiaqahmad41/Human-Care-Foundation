@@ -152,6 +152,8 @@
     background-color:white;
     height: 432px;
   }
+ 
+
 
   .card {
     max-width: 100%;
@@ -226,15 +228,44 @@
 
      .h{
       position: absolute;
-top: 173px;
-font-size: 80px;
-color: white;
-left: 480px;
+      top: 225px;
+      font-size: 80px;
+      color: #5b2020;
+      left: 500px;
 }
-.h1{
+.h3{
+  position: absolute;
+  top: 173px;
+  font-size: 80px;
+  color: #5b2020;
+  left: 487px
+
+}
+.h1{ 
   position: absolute;
   top: 173px;
   font-size: 80px;
   color: #5b2020;
   left: 388px;
 }
+
+.head-home{
+  position: absolute;
+  box-sizing: border-box;
+  top: 201px;
+  color: white;
+  left: 128px;
+  width: 412px;
+  font-size: 60px;
+}
+.headline{
+  position: absolute;
+  box-sizing: border-box;
+  top: 427px;
+  color: white;
+  left: 145px;
+  width: 392px;
+  font-size: 20px;
+ 
+}
+
